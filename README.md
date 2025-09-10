@@ -154,6 +154,6 @@ Open `ProjectCifar.ipynb` in Jupyter Notebook and run all cells.
 ```bash
 ├── ProjectCifar.ipynb # Jupyter Notebook with full pipeline
 ├── requirements.txt   # Dependencies for reproduction
-├── presentation.pptx  # Project presentation slides
+├── Image classification using CNN and Transfer Learning.pptx  # Project presentation slides
 └── README.md          # Project documentation
 ```
